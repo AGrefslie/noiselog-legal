@@ -1,0 +1,4 @@
+# GitHub Pages config. Serves docs/ from the main branch via Jekyll.
+title: NoiseLog
+description: A quiet way to build a loud paper trail.
+theme: jekyll-theme-minimal
