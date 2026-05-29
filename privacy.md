@@ -5,7 +5,7 @@ permalink: /privacy
 
 # NoiseLog Privacy Policy
 
-*Last updated: 2026-05-28*
+*Last updated: 2026-05-29*
 
 NoiseLog is an **offline-first** noise-incident logging app. This policy explains
 what the app collects, where it lives, and what (if anything) leaves your device.
@@ -96,4 +96,4 @@ the "Last updated" date above and surface the change in the app on next launch.
 ## 10. Contact
 
 Questions or requests:
-**axel.grefslie@obos.no**
+**axel.grefslie@icloud.com**
